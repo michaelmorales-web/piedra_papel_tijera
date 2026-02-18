@@ -17,7 +17,7 @@ Programa en Python para jugar al juego piedra papel o tijera
 
 ## Diseño
 
-![diagrama de flujo](diagram.png)
+![diagrama de flujo](diagrama.png)
 
 ## Construcción
 - codigo implementado en el archivo piedra_papel_tijera.py
